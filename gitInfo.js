@@ -42,7 +42,7 @@ const gitCloneDefinition = 'copying a exsisting repo in a new directory and/or l
 */
 
 //CODE HERE
-
+const gitStatusDefinition = 'The git status command displays the state of the working directory and the staging area '
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
